@@ -1,0 +1,5 @@
+﻿  os_core.c
+e:\嵌入式系统概论\edf实验\micrium_win32_os2\micrium\software\ucos-ii\source\os_core.c(717): warning C4013: “printf”未定义；假设外部返回 int
+e:\嵌入式系统概论\edf实验\micrium_win32_os2\micrium\software\ucos-ii\source\os_core.c(956): warning C4101: “ptcb”: 未引用的局部变量
+  OS2.vcxproj -> E:\嵌入式系统概论\EDF实验\Micrium_Win32_OS2\Micrium\Software\Evalboards\Microsoft\Windows\OS2\Visual Studio\Debug\OS2.exe
+  OS2.vcxproj -> E:\嵌入式系统概论\EDF实验\Micrium_Win32_OS2\Micrium\Software\Evalboards\Microsoft\Windows\OS2\Visual Studio\Debug\OS2.pdb (Full PDB)
